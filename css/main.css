@@ -1,0 +1,12 @@
+body {
+	text-align:center;
+	background-color: #EBEBEB;
+}
+
+.headingTitle {
+	font-size:70px;
+	font-family: 'Audiowide', cursive;
+}
+ h1, h2, h4 {
+ 	font-family: 'Permanent Marker', cursive;
+ }
